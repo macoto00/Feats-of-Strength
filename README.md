@@ -3,7 +3,7 @@ Personal milestones and achievements i want to share:
 
 ## Get oriented and start 
 
-I used to rush home from work. I wanted a job that I enjoy and that fulfills me. So, I left my job, learned to program, and got a job as a programmer. I did all this while burdened with a mortgage, supporting a family with two kids and a wife on maternity leave. Successfully. Now, I rush to work.
+I used to rush home from work. I wanted a job that I enjoy and that fulfills me. So, I left my job, learned to program, and got a job as a programmer. I did all this while burdened with a mortgage, supporting a family with two kids and a wife on maternity leave. Successfully. Now, I rush hapilly to work.
 
 Feel free to find more at -> https://www.macoto-dev.cz/
 
