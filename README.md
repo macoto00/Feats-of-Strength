@@ -1,6 +1,6 @@
 # Feats-of-Strength 💪
 
-Personal milestones and achievements i want to share.
+Personal milestones and achievements I want to share.
 
 Programming evokes emotions in me - different and intense ones. Frustration, anger, and hopelessness when things don't go well, but it is precisely at that moment that it starts to get exciting. When you spend a huge amount of time on a problem and finally manage to solve it, joy, excitement, and satisfaction come from overcoming the challenge and finding a solution. I believe there is a solution to everything. So let's apply it, find it, or invent it.
 
